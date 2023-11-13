@@ -1,0 +1,10 @@
+
+*.bin
+*.v2
+*.vsidx
+.vs/Sakuraa-VideoPlayer/v17/.suo
+*.props
+*.targets
+Sakuraa-VideoPlayer.sln
+Sakuraa-VideoPlayer/MakeRelease.ps1
+Sakuraa-VideoPlayer/Sakuraa-VideoPlayer.csproj
